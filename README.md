@@ -1,6 +1,7 @@
 # Food-Ordering-Site
 <h1>Step 0</h1>
-Download this code by using git clone 
+<h3>Download this code by using git clone https://github.com/Anonymous-6409/Food-Ordering-Site</h3>
+<h3>Or simply download it in zip format and extract it.</h3>
 <h1>Step 1</h1>
 <h3>You can access this website by using WAMP Server or XAMP Server, install it first if you don't have it.</h3>
 <h1>Step 2</h1>
